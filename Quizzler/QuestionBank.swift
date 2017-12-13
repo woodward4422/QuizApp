@@ -4,8 +4,6 @@
 //  Quizzler
 //
 //  Created by Noah Woodward on 9/25/17.
-//  Copyright © 2017 London App Brewery. All rights reserved.
-//
 
 import Foundation
 
